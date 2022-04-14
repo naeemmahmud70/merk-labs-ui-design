@@ -1,0 +1,16 @@
+#launchPad {
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 32px;
+  letter-spacing: 0.1em;
+  color: #4effbf;
+  margin-top: -200px;
+}
+.launchLine{
+    position: relative;
+    bottom: 190px;
+    left: 80px;
+}
+.lineMargin{
+    margin-top: -150px;
+}

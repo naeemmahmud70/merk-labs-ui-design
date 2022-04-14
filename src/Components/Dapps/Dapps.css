@@ -1,0 +1,15 @@
+.dapps {
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 32px;
+  letter-spacing: 0.1em;
+  color: #ffbf5f;
+  margin-top: -200px;
+}
+.line {
+  position: relative;
+  bottom: 185px;
+  left: 79px;
+}
+
+

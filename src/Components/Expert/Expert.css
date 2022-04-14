@@ -1,0 +1,21 @@
+.expert {
+  font-weight: 600;
+  font-size: 29px;
+  line-height: 32px;
+  letter-spacing: 0.1em;
+  color: #618dff;
+  margin-top: 200px;
+}
+.expertLine {
+  position: relative;
+  bottom: 175px;
+  right: 80px;
+}
+.marginDiscuss {
+  margin-top: -200px;
+}
+@media only screen and (max-width: 520px) {
+  .expertLine {
+    bottom: 140px;
+  }
+}
